@@ -12,3 +12,4 @@ In order to contribute
 4. Create a new `branch` for creating a feature, bug fix, or other contributions. Make sure this branch and its changes end up on your remote repository.
 5. When your branch is ready and working, create a pull request at the [main repo](https://github.com/thomaswilliams4129/Study-Sites).
 6. Start back over at step 4 to add another feature!
+
