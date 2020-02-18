@@ -1,4 +1,5 @@
 *.iml
+app/src/release/res/values/google_maps_api.xml
 .gradle
 /local.properties
 /.idea/caches
@@ -14,5 +15,6 @@
 .cxx
 .DS_Store
 .idea/
-/app/src/release/res/values/google_maps_api.xml
+*google_maps_api.xml
+app/src/release/res/values/google_maps_api.xml
 app/src/release/res/values/google_maps_api.xml
