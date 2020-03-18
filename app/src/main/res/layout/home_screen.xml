@@ -11,16 +11,16 @@
         android:orientation="horizontal">
 
         <SearchView
-            android:id="@+id/search_bar"
+            android:id="@+id/searchBar"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:background="#545454"
+            android:background="@android:drawable/dialog_holo_light_frame"
             android:backgroundTint="#1186E2"
             android:clickable="true"
             android:clipChildren="false"
             android:focusable="true"
             android:gravity="fill_horizontal|top"
-            android:padding="2" />
+            android:padding="2dp" />
 
     </LinearLayout>
 
@@ -36,8 +36,9 @@
         android:textStyle="bold" />
 
     <ListView
+        android:id="@+id/savedSitesList"
         android:layout_width="match_parent"
-        android:layout_height="259dp" >
+        android:layout_height="205dp">
 
     </ListView>
 
@@ -53,7 +54,15 @@
         android:textStyle="bold" />
 
     <ListView
+        android:id="@+id/suggestedList"
         android:layout_width="match_parent"
-        android:layout_height="match_parent" />
+        android:layout_height="255dp" />
+
+    <Button
+        android:id="@+id/addLocation"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/add_location"
+        android:layout_gravity="end"/>
 
 </LinearLayout>

@@ -3,4 +3,8 @@
     <string name="title_activity_maps">Map</string>
     <string name="your_saved_sites">Your Saved Sites</string>
     <string name="nearby">Nearby Sites</string>
+    <string name="app_logo"></string>
+    <string name="add_location">Add Location</string>
+    <string name="item">Item: 1</string>
+    <string name="search_hint">Search Location</string>
 </resources>
