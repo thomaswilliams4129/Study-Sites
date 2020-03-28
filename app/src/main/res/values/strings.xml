@@ -7,4 +7,9 @@
     <string name="add_location">Add Location</string>
     <string name="item">Item: 1</string>
     <string name="search_hint">Search Location</string>
+    <string name="image_thumbnail">Image thumbnail</string>
+    <string name="image_thumbnail_of_site">Image thumbnail of site</string>
+    <string name="coffee_shop_2">Coffee Shop #2</string>
+    <string name="coffe_tea"><![CDATA[Coffee & Tea]]></string>
+    <string name="add">Add</string>
 </resources>
